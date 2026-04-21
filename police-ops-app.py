@@ -36,7 +36,7 @@ st.markdown("-------------------------------------------------------------------
 
 
 # Image
-st.image("intro.jpg", caption='You will be haked so soon', width=500)
+st.image("intro.jpg", caption='You will be hacked so soon', width=500)
 
 # Subheader
 st.subheader('Please answer the questions below:')
